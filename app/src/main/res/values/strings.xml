@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CollinsMortgageCalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="HousePrice">House Price</string>
+    <string name="DownPayment">Down Payment</string>
+    <string name="InterestRate">Interest Rate (%)</string>
+    <string name="Length">Loan Length (Years)</string>
+    <string name="Monthly">MonthlyPayment</string>
+    <string name="Total">Total Payment</string>
+    <string name="Compute">Compute</string>
+    <string name="Zero">0</string>
+    <string name="ZeroPointZero">0.0</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
